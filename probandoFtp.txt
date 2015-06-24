@@ -1,1 +1,71 @@
-probando ftps
+Buenos días, para hacer uso del script de GitFtp,
+se debe iniciar en la consola, en la carpeta en donde se encuentra el gruntfile del proyecto el comando "grunt"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Al momento de ejecutar este comando, se inicia la tarea watch, la cual se encarga de observar los archivos dentro de la carpeta "publication" para subir los archivos modificados al servidor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Despues de iniciar grunt, se deben agregar los cambios al repositorio con 
+
+git add
+git commit
+git push
