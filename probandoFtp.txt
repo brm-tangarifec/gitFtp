@@ -1,4 +1,4 @@
-Buenos días, para hacer uso del script de GitFtp,
+Buenos días, para hacer uso del script de Kodos,
 se debe iniciar en la consola, en la carpeta en donde se encuentra el gruntfile del proyecto el comando "grunt"
 
 
